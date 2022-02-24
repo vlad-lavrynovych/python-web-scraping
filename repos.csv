@@ -1,11 +1,11 @@
-	repository	url	tags	about	stars
-0	valhalla	https://github.com/valhalla/valhalla	directions, openstreetmap, routing, astar, traveling-salesman, dijkstra, routing-engine, isochrones, multi-modal, tiled	Open Source Routing Engine for OpenStreetMap	1.9k
-1	demos	https://github.com/valhalla/demos		demos	77
-2	homebrew-valhalla	https://github.com/valhalla/homebrew-valhalla	macos, homebrew, routing-engine, mapzen, valhalla	Install the Valhalla routing engine on Mac OS using the Homebrew package manager	8
-3	docker	https://github.com/valhalla/docker		docker	18
-4	osmlr	https://github.com/valhalla/osmlr		OTv2: application to generate and update OSMLR segments (for use by the Open Traffic platform and others needing a stable linear-referencing system)	1
-5	osmlr-tile-spec	https://github.com/valhalla/osmlr-tile-spec		OTv2: OSMLR is a specification for identifying parts of a road network based on OpenLR.	0
-6	valhalla-docs	https://github.com/valhalla/valhalla-docs		DEPRECATED: The up-to-date documentation for valhalla can be found in the main repository.	70
-7	chef-valhalla	https://github.com/valhalla/chef-valhalla		Chef cookbook for running the Valhalla suite of applications, the routing service and tile cutting in particular	21
-8	packaging	https://github.com/valhalla/packaging		Create versioned packages for upload to PPA	4
-9	osmlr_packaging	https://github.com/valhalla/osmlr_packaging		OTv2: Scripts to package OSMLR for Ubuntu.	0
+,repository,url,tags,about,stars
+0,valhalla,https://github.com/valhalla/valhalla,"directions, openstreetmap, routing, astar, traveling-salesman, dijkstra, routing-engine, isochrones, multi-modal, tiled",Open Source Routing Engine for OpenStreetMap,1.9k
+1,demos,https://github.com/valhalla/demos,,demos,77
+2,homebrew-valhalla,https://github.com/valhalla/homebrew-valhalla,"macos, homebrew, routing-engine, mapzen, valhalla",Install the Valhalla routing engine on Mac OS using the Homebrew package manager,8
+3,docker,https://github.com/valhalla/docker,,docker,18
+4,osmlr,https://github.com/valhalla/osmlr,,OTv2: application to generate and update OSMLR segments (for use by the Open Traffic platform and others needing a stable linear-referencing system),1
+5,osmlr-tile-spec,https://github.com/valhalla/osmlr-tile-spec,,OTv2: OSMLR is a specification for identifying parts of a road network based on OpenLR.,0
+6,valhalla-docs,https://github.com/valhalla/valhalla-docs,,DEPRECATED: The up-to-date documentation for valhalla can be found in the main repository.,70
+7,chef-valhalla,https://github.com/valhalla/chef-valhalla,,"Chef cookbook for running the Valhalla suite of applications, the routing service and tile cutting in particular",21
+8,packaging,https://github.com/valhalla/packaging,,Create versioned packages for upload to PPA,4
+9,osmlr_packaging,https://github.com/valhalla/osmlr_packaging,,OTv2: Scripts to package OSMLR for Ubuntu.,0
